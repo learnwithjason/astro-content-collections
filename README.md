@@ -1,32 +1,42 @@
-# Astro Starter Kit: Minimal
+<p align="center">
+  <a href="https://www.learnwithjason.dev">
+    <img src="https://res.cloudinary.com/jlengstorf/image/upload/v1609356421/lwj/learn-with-jason.png" alt="Learn With Jason" width="120" />
+  </a>
+</p>
+<h1 align="center">
+  Typesafe Markdown With Astro Content Collections
+</h1>
+<h3 align="center">
+  This app is a demo of the content collections feature added in version 2.0 of Astro. It was created as part of a build-along tutorial that's available in both video and written formats.
+</h3>
+<p align="center">
+  But don’t worry! You can still: 
+  <a href="https://youtu.be/gqz0d1GguTg"><strong>watch the video</strong></a> · 
+  <a href="https://lwj.dev/blog/typesafe-markdown-astro-content-collections"><strong>read the tutorial</strong></a> · 
+  <a href="https://app.netlify.com/start/deploy?repository=https://github.com/learnwithjason/astro-content-collections&utm_source=learnwithjason&utm_medium=github&utm_campaign=devex"><strong>deploy this project</strong></a>
+</p>
 
-```
-npm create astro@latest -- --template minimal
-```
+&nbsp;
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/withastro/astro/tree/latest/examples/minimal)
+Typesafe Markdown might sound like an oxymoron, but with the new content collections released in Astro 2.0, you can now specify a schema for your Markdown frontmatter using Zod and get all the delicious validation and autocomplete that comes with it.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+&nbsp;
 
-## 🚀 Project Structure
+## More Information
 
-Inside of your Astro project, you'll see the following folders and files:
+- [Watch this app get built live][episode]
+- [Subscribe to _Learn With Jason_ on YouTube][youtube] to watch future episodes live
+- [Add the _Learn With Jason_ schedule to your Google Calendar][cal]
 
-```
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+&nbsp;
+<p align="center">
+  <a href="https://app.netlify.com/start/deploy?repository=https://github.com/learnwithjason/astro-content-collections&utm_source=learnwithjason&utm_medium=github&utm_campaign=devex">
+    <img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy this project to Netlify" />
+  </a>
+</p>
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
+[episode]: https://lwj.dev/blog/typesafe-markdown-astro-content-collections
+[youtube]: https://www.youtube.com/@learnwithjason
 
 ## 🧞 Commands
 
