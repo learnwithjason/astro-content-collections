@@ -10,7 +10,6 @@
   This app is a demo of the content collections feature added in version 2.0 of Astro. It was created as part of a build-along tutorial that's available in both video and written formats.
 </h3>
 <p align="center">
-  But don’t worry! You can still: 
   <a href="https://youtu.be/gqz0d1GguTg"><strong>watch the video</strong></a> · 
   <a href="https://lwj.dev/blog/typesafe-markdown-astro-content-collections"><strong>read the tutorial</strong></a> · 
   <a href="https://app.netlify.com/start/deploy?repository=https://github.com/learnwithjason/astro-content-collections&utm_source=learnwithjason&utm_medium=github&utm_campaign=devex"><strong>deploy this project</strong></a>
