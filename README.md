@@ -25,7 +25,6 @@ Typesafe Markdown might sound like an oxymoron, but with the new content collect
 
 - [Watch this app get built live][episode]
 - [Subscribe to _Learn With Jason_ on YouTube][youtube] to watch future episodes live
-- [Add the _Learn With Jason_ schedule to your Google Calendar][cal]
 
 &nbsp;
 <p align="center">
