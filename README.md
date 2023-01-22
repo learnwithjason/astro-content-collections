@@ -24,7 +24,8 @@ Typesafe Markdown might sound like an oxymoron, but with the new content collect
 ## More Information
 
 - [Watch this app get built live][episode]
-- [Subscribe to _Learn With Jason_ on YouTube][youtube] to watch future episodes live
+- [Subscribe to _Learn With Jason_ on YouTube][youtube]
+- [Learn more about Jason](https://jason.af/links)
 
 &nbsp;
 <p align="center">
