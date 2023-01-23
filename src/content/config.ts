@@ -2,9 +2,6 @@ import { defineCollection, z } from 'astro:content';
 
 export const collections = {
   blog: defineCollection({
-    slug: ({ defaultSlug, data }) => {
-      return data.slug || defaultSlug;
-    },
     schema: z.object({
       draft: z.boolean().default(false),
       date: z.date().transform((str) => new Date(str)),
